@@ -1,0 +1,9 @@
+/*CSS Variables*/
+:root {
+    --background-color: #4c4c4c;
+    --headline-color: #a37eba;
+    --paragraph-color: #e8e8e8;
+    --button-color: #a37eba;
+    --button-text: #e8e8e8;
+    --highlight-color: #e5df88;
+}
